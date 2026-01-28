@@ -31,7 +31,8 @@ Collect various papers about re-identification for animals towards better genera
 - **FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation**.  *Yuhang Zang, Chen Huang, Chen Change Loy*.  [[DOI](https://arxiv.org/abs/2102.12867)] [[pdf](https://arxiv.org/pdf/2102.12867)] [[code](https://github.com/yuhangzang/FASA)] ![](https://img.shields.io/badge/arXiv2021-red)
 
 ### Real-World Ecological Challenges
-
+- **Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning**.  *Mohammad Sadegh Norouzzadeh, Anh Nguyen, Margaret Kosmala, Alexandra Swanson, Meredith S Palmer, Craig Packer, Jeff Clune*.  [[DOI](https://pubmed.ncbi.nlm.nih.gov/29871948/)] ![](https://img.shields.io/badge/OSTI2018-blue)
+- **Insights and approaches using deep learning to classify wildlife**.  *Zhongqi Miao, Kaitlyn M. Gaynor, Jiayun Wang, Ziwei Liu, Oliver Muellerklein, Mohammad Sadegh Norouzzadeh, Alex McInturff, Rauri C. K. Bowie, Ran Nathan, Stella X. Yu & Wayne M. Getz*.  [[DOI](https://www.nature.com/articles/s41598-019-44565-w)] ![](https://img.shields.io/badge/Nature2019-blue)
 
 ## Cross-Species Transfer Learning
 
