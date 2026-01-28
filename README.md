@@ -45,11 +45,11 @@ Collect various papers about re-identification for animals towards better genera
 - **TransMatch: A Transfer-Learning Scheme for Semi-Supervised Few-Shot Learning**.  *Zhongjie Yu, Lin Chen, Zhongwei Cheng, Jiebo Luo*.  [[DOI](https://arxiv.org/abs/1912.09033)] [[pdf](https://arxiv.org/pdf/1912.09033)] ![](https://img.shields.io/badge/arXiv2020-red)
 
 ### Cross-Domain Transfer
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- **UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning**.  *Meiqi Sun, Zhonghan Zhao, Wenhao Chai, Hanjun Luo, Shidong Cao, Yanting Zhang, Jenq-Neng Hwang, Gaoang Wang*.  [[DOI](https://arxiv.org/abs/2308.09953)] [[pdf](https://arxiv.org/pdf/2308.09953)] ![](https://img.shields.io/badge/arXiv2023-red)
+- **Applying Few-Shot Learning for In-the-Wild Camera-Trap Species Classification**.  *Haoyu Chen,Stacy Lindshield,Papa Ibnou Ndiaye,Yaya Hamady Ndiaye,Jill D. Pruetz and Amy R. Reibman*.  [[DOI](https://www.mdpi.com/2673-2688/4/3/31)] [[code](https://github.com/microsoft/SpeciesClassification)] ![](https://img.shields.io/badge/MDPI2023-blue)
+- **Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation**.  *Hung-Yu Tseng, Hsin-Ying Lee, Jia-Bin Huang, Ming-Hsuan Yang*.  [[DOI](https://arxiv.org/abs/2001.08735)] [[pdf](https://arxiv.org/pdf/2001.08735)] [[code](https://github.com/hytseng0509/CrossDomainFewShot)] ![](https://img.shields.io/badge/arXiv2020-red)
+- **Deep Learning for Cross-Domain Few-Shot Visual Recognition: A Survey**.  *Huali Xu, Shuaifeng Zhi, Shuzhou Sun, Vishal M. Patel, Li Liu*.  [[DOI](https://dl.acm.org/doi/full/10.1145/3718362)] [[pdf](https://dl.acm.org/doi/epdf/10.1145/3718362)] ![](https://img.shields.io/badge/ACM2025-black)
+- **Zero-shot learning**.  **.  [[DOI](https://en.wikipedia.org/wiki/Zero-shot_learning)] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
 
 ### Taxonomy-Driven Transfer
 - ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
