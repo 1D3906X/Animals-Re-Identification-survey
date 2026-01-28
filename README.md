@@ -8,13 +8,13 @@ Collect various papers about re-identification for animals towards better genera
 
 # Content
 - [Papers](#papers)
-  - [Problems and Challenges](#problems_and_challenges)
-    - [Long-Tailed Distribution](#long-tailed_distribution)
-    - [Real-World Ecological Challenges](#real-world_ecological_challenges)
-  - [Cross-Species Transfer Learning](#cross-species_transfer_learning)
-    - [Pretrained Model Transfer](#pretrained_model_transfer)
-    - [Cross-Species / Cross-Domain Transfer](#cross-species/cross-domain_transfer)
-    - [Biology-Aware / Taxonomy-Driven Transfer](#biology-aware/taxonomy-dsriven_transfer)
+  - [Problems and Challenges](#problems-and-challenges)
+    - [Long-Tailed Distribution](#long-tailed-distribution)
+    - [Real-World Ecological Challenges](#real-world-ecological-challenges)
+  - [Cross-Species Transfer Learning](#cross-species-transfer-learning)
+    - [Pretrained Model Transfer](#pretrained-model-transfer)
+    - [Cross-Species / Cross-Domain Transfer](#cross-species/cross-domain-transfer)
+    - [Biology-Aware / Taxonomy-Driven Transfer](#biology-aware/taxonomy-dsriven-transfer)
 
 # Papers
 
