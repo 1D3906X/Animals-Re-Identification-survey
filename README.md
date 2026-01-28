@@ -11,6 +11,10 @@ Collect various papers about re-identification for animals towards better genera
   - [Problems and Challenges](#problems_and_challenges)
     - [Long-Tailed Distribution](#long-tailed_distribution)
     - [Real-World Ecological Challenges](#real-world_ecological_challenges)
+  - [Cross-Species Transfer Learning](#cross-species_transfer_learning)
+    - [Pretrained Model Transfer](#pretrained_model_transfer)
+    - [Cross-Species / Cross-Domain Transfer](#cross-species/cross-domain_transfer)
+    - [Biology-Aware / Taxonomy-Driven Transfer](#biology-aware/taxonomy-dsriven_transfer)
 
 # Papers
 
@@ -20,3 +24,12 @@ Collect various papers about re-identification for animals towards better genera
 - **Deep Long-Tailed Learning: A Survey**.  *Yifan Zhang, Bingyi Kang, Bryan Hooi, Shuicheng Yan, Fellow, IEEE, and Jiashi Feng*.  [[DOI](https://arxiv.org/abs/2110.04596)][[pdf](https://arxiv.org/pdf/2110.04596)][[code](https://github.com/Vanint/Awesome-LongTailed-Learning)] ![](https://img.shields.io/badge/arXiv2021-red)
 
 ### Real-World Ecological Challenges
+
+
+## Cross-Species Transfer Learning
+
+### Pretrained Model Transfer
+
+### Cross-Species / Cross-Domain Transfer
+
+### Biology-Aware / Taxonomy-Driven Transfer
