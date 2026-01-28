@@ -49,10 +49,12 @@ Collect various papers about re-identification for animals towards better genera
 - **Applying Few-Shot Learning for In-the-Wild Camera-Trap Species Classification**.  *Haoyu Chen,Stacy Lindshield,Papa Ibnou Ndiaye,Yaya Hamady Ndiaye,Jill D. Pruetz and Amy R. Reibman*.  [[DOI](https://www.mdpi.com/2673-2688/4/3/31)] [[code](https://github.com/microsoft/SpeciesClassification)] ![](https://img.shields.io/badge/MDPI2023-blue)
 - **Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation**.  *Hung-Yu Tseng, Hsin-Ying Lee, Jia-Bin Huang, Ming-Hsuan Yang*.  [[DOI](https://arxiv.org/abs/2001.08735)] [[pdf](https://arxiv.org/pdf/2001.08735)] [[code](https://github.com/hytseng0509/CrossDomainFewShot)] ![](https://img.shields.io/badge/arXiv2020-red)
 - **Deep Learning for Cross-Domain Few-Shot Visual Recognition: A Survey**.  *Huali Xu, Shuaifeng Zhi, Shuzhou Sun, Vishal M. Patel, Li Liu*.  [[DOI](https://dl.acm.org/doi/full/10.1145/3718362)] [[pdf](https://dl.acm.org/doi/epdf/10.1145/3718362)] ![](https://img.shields.io/badge/ACM2025-black)
-- **Zero-shot learning**.  **.  [[DOI](https://en.wikipedia.org/wiki/Zero-shot_learning)] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- **Zero-Shot Learning -- A Comprehensive Evaluation of the Good, the Bad and the Ugly**.  *Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata*.  [[DOI](https://arxiv.org/abs/1707.00600)] [[pdf](https://arxiv.org/pdf/1707.00600)] ![](https://img.shields.io/badge/arXiv2020-red)
+- **Zero-Shot Learning -- The Good, the Bad and the Ugly**. *Yongqin Xian, Bernt Schiele, Zeynep Akata* [[DOI](https://ieeexplore.ieee.org/document/8099811)] [[pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf)] ![](https://img.shields.io/badge/CVPR2017-blue)
+- **Adaptive Confidence Smoothing for Generalized Zero-Shot Learning**.  *Yuval Atzmon, Gal Chechik*.  [[DOI](https://ieeexplore.ieee.org/document/8953714)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Atzmon_Adaptive_Confidence_Smoothing_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf)] [[code]()] ![](https://img.shields.io/badge/CVPR2019-blue)
 
 ### Taxonomy-Driven Transfer
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- **CLIP-Driven Few-Shot Species-Recognition Method for Integrating Geographic Information**.  *Lei Liu,Linzhe Yang,Feng Yang,Feixiang Chen and Fu Xu*.  [[DOI](https://www.mdpi.com/2072-4292/16/12/2238)] ![](https://img.shields.io/badge/MDPI2024-green)
 - ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
 - ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
 - ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
