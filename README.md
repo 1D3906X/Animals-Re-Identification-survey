@@ -22,6 +22,8 @@ Collect various papers about re-identification for animals towards better genera
 
 ### Long-Tailed Distribution
 - **Deep Long-Tailed Learning: A Survey**.  *Yifan Zhang, Bingyi Kang, Bryan Hooi, Shuicheng Yan, Fellow, IEEE, and Jiashi Feng*.  [[DOI](https://arxiv.org/abs/2110.04596)][[pdf](https://arxiv.org/pdf/2110.04596)][[code](https://github.com/Vanint/Awesome-LongTailed-Learning)] ![](https://img.shields.io/badge/arXiv2021-red)
+- **A Survey on Long-Tailed Visual Recognition**.  *Lu Yang, He Jiang, Qing Song, Jun Guo*.  [[DOI](https://arxiv.org/abs/2205.13775)] [[pdf](https://arxiv.org/pdf/2205.13775)] ![](https://img.shields.io/badge/arXiv2022-red)
+- **Bag of Tricks for Long-Tail Visual Recognition of Animal Species in Camera-Trap Images**.  *Fagner Cunha, Eulanda M. dos Santos, Juan G. Colonna*.  [[DOI](https://arxiv.org/abs/2206.12458)] [[pdf](https://arxiv.org/pdf/2206.12458)] ![](https://img.shields.io/badge/arXiv2022-red)
 
 ### Real-World Ecological Challenges
 
