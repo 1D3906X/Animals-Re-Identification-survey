@@ -70,10 +70,10 @@ Collect various papers about re-identification for animals towards better genera
 
 ### Few-Shot Classification
 - **Few-Shot Object Detection: Research Advances and Challenges**.  *Zhimeng Xin, Shiming Chen, Tianxu Wu, Yuanjie Shao, Weiping Ding, Xinge You*.  [[DOI](https://arxiv.org/abs/2404.04799)] [[pdf](https://arxiv.org/pdf/2404.04799)] ![](https://img.shields.io/badge/arXiv2024-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- **Few-Shot Object Detection: A Comprehensive Survey**.  *Mona Köhler, Markus Eisenbach, Horst-Michael Gross*.  [[DOI](https://ieeexplore.ieee.org/abstract/document/10103630)] [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103630)]  ![](https://img.shields.io/badge/CVPR2024-blue)
+- **Universal-Prototype Enhancing for Few-Shot Object Detection**.  *Aming Wu, Yahong Han, Linchao Zhu, Yi Yang*.  [[DOI](https://arxiv.org/abs/2103.01077)] [[pdf](https://arxiv.org/pdf/2103.01077)] [[code](https://github.com/AmingWu/UP-FSOD)] ![](https://img.shields.io/badge/ICCV2021-blue)
+- **Few-shot Object Detection via Improved Classification Features**.  *Xinyu Jiang, Zhengjia Li, Maoqing Tian, Jianbo Liu, Shuai Yi, Duoqian Miao*. [[pdf](https://iip.tongji.edu.cn/pdf/2023WACV-jyx.pdf)] ![](https://img.shields.io/badge/WACV2023-black)
+- **Label, Verify, Correct: A Simple Few Shot Object Detection Method**.  *Prannay Kaul, Weidi Xie, Andrew Zisserman*.  [[DOI](https://arxiv.org/abs/2112.05749)] [[pdf](https://arxiv.org/pdf/2112.05749)] ![](https://img.shields.io/badge/CVPR2022-orange)
 
 ### Few-Shot Object Detection
 
