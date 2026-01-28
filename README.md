@@ -7,3 +7,14 @@ Collect various papers about re-identification for animals towards better genera
 </div>
 
 # Content
+- [Papers](#papers)
+  - [Problems and Challenges](#problems_and_challenges)
+    - [Data Scarcity](#data_scarcity)
+    - [Long-Tailed Distribution](#long-tailed_distribution)
+    - [Real-World Ecological Challenges](#real-world_ecological_challenges)
+
+# Papers
+## Problems and Challenges
+### Data Scarcity
+### Long-Tailed Distribution
+### Real-World Ecological Challenges
