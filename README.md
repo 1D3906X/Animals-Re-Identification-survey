@@ -13,8 +13,8 @@ Collect various papers about re-identification for animals towards better genera
     - [Real-World Ecological Challenges](#real-world-ecological-challenges)
   - [Cross-Species Transfer Learning](#cross-species-transfer-learning)
     - [Pretrained Model Transfer](#pretrained-model-transfer)
-    - [Cross-Species / Cross-Domain Transfer](#cross-species-cross-domain-transfer)
-    - [Biology-Aware / Taxonomy-Driven Transfer](#biology-aware-taxonomy-dsriven-transfer)
+    - [Cross-Domain Transfer](#cross-domain-transfer)
+    - [Taxonomy-Driven Transfer](#taxonomy-dsriven-transfer)
 
 # Papers
 
@@ -33,6 +33,6 @@ Collect various papers about re-identification for animals towards better genera
 
 ### Pretrained Model Transfer
 
-### Cross-Species / Cross-Domain Transfer
+### Cross-Domain Transfer
 
-### Biology-Aware / Taxonomy-Driven Transfer
+### Taxonomy-Driven Transfer
