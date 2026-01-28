@@ -46,7 +46,7 @@ Collect various papers about re-identification for animals towards better genera
 
 ### Cross-Domain Transfer
 - **UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning**.  *Meiqi Sun, Zhonghan Zhao, Wenhao Chai, Hanjun Luo, Shidong Cao, Yanting Zhang, Jenq-Neng Hwang, Gaoang Wang*.  [[DOI](https://arxiv.org/abs/2308.09953)] [[pdf](https://arxiv.org/pdf/2308.09953)] ![](https://img.shields.io/badge/arXiv2023-red)
-- **Applying Few-Shot Learning for In-the-Wild Camera-Trap Species Classification**.  *Haoyu Chen,Stacy Lindshield,Papa Ibnou Ndiaye,Yaya Hamady Ndiaye,Jill D. Pruetz and Amy R. Reibman*.  [[DOI](https://www.mdpi.com/2673-2688/4/3/31)] [[code](https://github.com/microsoft/SpeciesClassification)] ![](https://img.shields.io/badge/MDPI2023-blue)
+- **Applying Few-Shot Learning for In-the-Wild Camera-Trap Species Classification**.  *Haoyu Chen,Stacy Lindshield,Papa Ibnou Ndiaye,Yaya Hamady Ndiaye,Jill D. Pruetz and Amy R. Reibman*.  [[DOI](https://www.mdpi.com/2673-2688/4/3/31)] [[code](https://github.com/microsoft/SpeciesClassification)] ![](https://img.shields.io/badge/MDPI2023-green)
 - **Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation**.  *Hung-Yu Tseng, Hsin-Ying Lee, Jia-Bin Huang, Ming-Hsuan Yang*.  [[DOI](https://arxiv.org/abs/2001.08735)] [[pdf](https://arxiv.org/pdf/2001.08735)] [[code](https://github.com/hytseng0509/CrossDomainFewShot)] ![](https://img.shields.io/badge/arXiv2020-red)
 - **Deep Learning for Cross-Domain Few-Shot Visual Recognition: A Survey**.  *Huali Xu, Shuaifeng Zhi, Shuzhou Sun, Vishal M. Patel, Li Liu*.  [[DOI](https://dl.acm.org/doi/full/10.1145/3718362)] [[pdf](https://dl.acm.org/doi/epdf/10.1145/3718362)] ![](https://img.shields.io/badge/ACM2025-black)
 - **Zero-Shot Learning -- A Comprehensive Evaluation of the Good, the Bad and the Ugly**.  *Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata*.  [[DOI](https://arxiv.org/abs/1707.00600)] [[pdf](https://arxiv.org/pdf/1707.00600)] ![](https://img.shields.io/badge/arXiv2020-red)
@@ -55,7 +55,7 @@ Collect various papers about re-identification for animals towards better genera
 
 ### Taxonomy-Driven Transfer
 - **CLIP-Driven Few-Shot Species-Recognition Method for Integrating Geographic Information**.  *Lei Liu,Linzhe Yang,Feng Yang,Feixiang Chen and Fu Xu*.  [[DOI](https://www.mdpi.com/2072-4292/16/12/2238)] ![](https://img.shields.io/badge/MDPI2024-green)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
-- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- **UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning**.  *Meiqi Sun, Zhonghan Zhao, Wenhao Chai, Hanjun Luo, Shidong Cao, Yanting Zhang, Jenq-Neng Hwang, Gaoang Wang*.  [[DOI](https://arxiv.org/abs/2308.09953)] [[pdf](https://arxiv.org/pdf/2308.09953)] ![](https://img.shields.io/badge/arXiv2023-red)
+- **AP-10K: A Benchmark for Animal Pose Estimation in the Wild**.  *Hang Yu, Yufei Xu, Jing Zhang, Wei Zhao, Ziyu Guan, Dacheng Tao*.  [[DOI](https://arxiv.org/abs/2108.12617)] [[pdf](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/903ce9225fca3e988c2af215d4e544d3-Paper-round2.pdf)] [[code](https://github.com/AlexTheBad/AP-10K)] ![](https://img.shields.io/badge/NeurIPS2021-black)
+- **Utilizing Geographical Distribution Statistical Data to Improve Zero-Shot Species Recognition**.  *Lei Liu,Boxun Han,Feixiang Chen, Chao Mou and Fu Xu*.  [[DOI](https://www.mdpi.com/2076-2615/14/12/1716)] ![](https://img.shields.io/badge/MDPI2024-green)
+- **Review on Animal Species Recognition using Transfer Learning VGG16 Model)**.  *Mayuri M. Vengurlekar, Ashish Pal, Pravin Parihar, Mustafa Nandervawala, Saahil Parmar, Shankar Amalraj*. [[pdf](https://kitspress.com/journals/IJDSAI/content/02/06/IJDSAI_V02_06_170-175-03112024.pdf)] [[code]()] ![](https://img.shields.io/badge/IJDSAI2024-blue)
