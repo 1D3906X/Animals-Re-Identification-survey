@@ -15,6 +15,10 @@ Collect various papers about re-identification for animals towards better genera
     - [Pretrained Model Transfer](#pretrained-model-transfer)
     - [Cross-Domain Transfer](#cross-domain-transfer)
     - [Taxonomy-Driven Transfer](#taxonomy-driven-transfer)
+  - [Few-Shot Learning](#few-shot-learning)
+    - [Few-Shot Classification](#few-shot-classification)
+    - [Few-Shot Object Detection](#few-shot-object-detection)
+    - [Few-Shot Applications in Ecology](#few-shot-applications-in-ecology)
 
 # Papers
 
@@ -33,6 +37,7 @@ Collect various papers about re-identification for animals towards better genera
 ### Real-World Ecological Challenges
 - **Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning**.  *Mohammad Sadegh Norouzzadeh, Anh Nguyen, Margaret Kosmala, Alexandra Swanson, Meredith S Palmer, Craig Packer, Jeff Clune*.  [[DOI](https://pubmed.ncbi.nlm.nih.gov/29871948/)] ![](https://img.shields.io/badge/OSTI2018-blue)
 - **Insights and approaches using deep learning to classify wildlife**.  *Zhongqi Miao, Kaitlyn M. Gaynor, Jiayun Wang, Ziwei Liu, Oliver Muellerklein, Mohammad Sadegh Norouzzadeh, Alex McInturff, Rauri C. K. Bowie, Ran Nathan, Stella X. Yu & Wayne M. Getz*.  [[DOI](https://www.nature.com/articles/s41598-019-44565-w)] ![](https://img.shields.io/badge/Nature2019-blue)
+
 
 ## Cross-Species Transfer Learning
 
@@ -59,3 +64,17 @@ Collect various papers about re-identification for animals towards better genera
 - **AP-10K: A Benchmark for Animal Pose Estimation in the Wild**.  *Hang Yu, Yufei Xu, Jing Zhang, Wei Zhao, Ziyu Guan, Dacheng Tao*.  [[DOI](https://arxiv.org/abs/2108.12617)] [[pdf](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/903ce9225fca3e988c2af215d4e544d3-Paper-round2.pdf)] [[code](https://github.com/AlexTheBad/AP-10K)] ![](https://img.shields.io/badge/NeurIPS2021-black)
 - **Utilizing Geographical Distribution Statistical Data to Improve Zero-Shot Species Recognition**.  *Lei Liu,Boxun Han,Feixiang Chen, Chao Mou and Fu Xu*.  [[DOI](https://www.mdpi.com/2076-2615/14/12/1716)] ![](https://img.shields.io/badge/MDPI2024-green)
 - **Review on Animal Species Recognition using Transfer Learning VGG16 Model)**.  *Mayuri M. Vengurlekar, Ashish Pal, Pravin Parihar, Mustafa Nandervawala, Saahil Parmar, Shankar Amalraj*. [[pdf](https://kitspress.com/journals/IJDSAI/content/02/06/IJDSAI_V02_06_170-175-03112024.pdf)] [[code]()] ![](https://img.shields.io/badge/IJDSAI2024-blue)
+
+
+## Few-Shot Learning
+
+### Few-Shot Classification
+- **Few-Shot Object Detection: Research Advances and Challenges**.  *Zhimeng Xin, Shiming Chen, Tianxu Wu, Yuanjie Shao, Weiping Ding, Xinge You*.  [[DOI](https://arxiv.org/abs/2404.04799)] [[pdf](https://arxiv.org/pdf/2404.04799)] ![](https://img.shields.io/badge/arXiv2024-red)
+- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+- ****.  **.  [[DOI]()] [[pdf]()] [[code]()] ![](https://img.shields.io/badge/arXiv2022-red)
+
+### Few-Shot Object Detection
+
+### Few-Shot Applications in Ecology
