@@ -14,7 +14,7 @@ Collect various papers about re-identification for animals towards better genera
   - [Cross-Species Transfer Learning](#cross-species-transfer-learning)
     - [Pretrained Model Transfer](#pretrained-model-transfer)
     - [Cross-Domain Transfer](#cross-domain-transfer)
-    - [Taxonomy-Driven Transfer](#taxonomy-dsriven-transfer)
+    - [Taxonomy-Driven Transfer](#taxonomy-driven-transfer)
 
 # Papers
 
