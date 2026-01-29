@@ -19,6 +19,13 @@ Collect various papers about re-identification for animals towards better genera
     - [Few-Shot Classification](#few-shot-classification)
     - [Few-Shot Object Detection](#few-shot-object-detection)
     - [Few-Shot Applications in Ecology](#few-shot-applications-in-ecology)
+  - [Domain Generalization](#domain-generalization)
+    -  [Cross-Environment Generalization](#cross-environment-generalization)
+    -  [Out-of-Distribution Generalization](#out-of-distribution-generalization)
+    -  [Multimodal Generalization](#multimodal-generalization)
+  -  [Applications Systems and Benchmarks](#applications-systems-and-benchmarks)
+    -  [Camera Trap](#camera-trap)
+    -  [Ecological Monitoring Systems](#ecological-monitoring-systems)
 - [Supplemental Tools](#supplemental-tools)
 
 # Papers
@@ -80,6 +87,22 @@ Collect various papers about re-identification for animals towards better genera
 
 ### Few-Shot Applications in Ecology
 
+
+
+## Domain Generalization
+
+### Cross-Environment Generalization
+
+### Out-of-Distribution Generalization
+
+### Multimodal Generalization
+
+
+## Applications Systems and Benchmarks
+
+### Camera Trap
+
+### Ecological Monitoring Systems
 
 
 # Supplemental Tools
