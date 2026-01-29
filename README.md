@@ -84,9 +84,16 @@ Collect various papers about re-identification for animals towards better genera
 - **Label, Verify, Correct: A Simple Few Shot Object Detection Method**.  *Prannay Kaul, Weidi Xie, Andrew Zisserman*.  [[DOI](https://arxiv.org/abs/2112.05749)] [[pdf](https://arxiv.org/pdf/2112.05749)] ![](https://img.shields.io/badge/CVPR2022-orange)
 
 ### Few-Shot Object Detection
+- **Few-Shot Object Detection via Variational Feature Aggregation**. *Jiaming Han, Yuqiang Ren, Jian Ding, Ke Yan, Gui-Song Xia*. [[DOI](https://ojs.aaai.org/index.php/AAAI/article/view/25153)] [[pdf](https://arxiv.org/pdf/2301.13411)] [[code](https://github.com/csuhan/VFA)] ![](https://img.shields.io/badge/AAAI2023-blue)
+- **Hierarchical Few-Shot Object Detection: Problem, Benchmark and Method**.  *Lu Zhang, Yang Wang, Jiaogen Zhou, Chenbo Zhang, Yinglu Zhang, Jihong Guan, Yatao Bian, Shuigeng Zhou*.  [[DOI](https://dl.acm.org/doi/abs/10.1145/3503161.3548412)] [[pdf](https://dl.acm.org/doi/epdf/10.1145/3503161.3548412)] [[code](https://github.com/zhanglu-cst/HIFSOD/tree/main)] ![](https://img.shields.io/badge/ACM2022-black)
+- **Few-Shot Object Detection with Foundation Models**.  *Guangxing Han, Ser-Nam Lim*.  [[DOI](https://ieeexplore.ieee.org/document/10658367)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.pdf)] ![](https://img.shields.io/badge/CVPR2024-blue)
+- **Few-Shot Object Detection with Sparse Context Transformers**.  *Jie Mei, Mingyuan Jiu, Hichem Sahbi, Xiaoheng Jiang, Mingliang Xu*.  [[DOI](https://arxiv.org/abs/2402.09315)] [[pdf](https://arxiv.org/pdf/2402.09315)] ![](https://img.shields.io/badge/arXiv2024-red)
 
 ### Few-Shot Applications in Ecology
-
+- **A Few-Shot Object Detection Method for Endangered Species**.  *Hongmei Yan, Xiaoman Ruan, Daixian Zhu, Haoran Kong and Peixuan Liu*.  [[DOI](https://www.mdpi.com/2076-3417/14/11/4443)] ![](https://img.shields.io/badge/MDPI2024-purple)
+- **The Art of Camouflage: Few-Shot Learning for Animal Detection and Segmentation**.  *Thanh-Danh Nguyen, Anh-Khoa Nguyen Vu, Nhat-Duy Nguyen, Vinh-Tiep Nguyen, Thanh Duc Ngo, Thanh-Toan Do*.  [[DOI](https://ieeexplore.ieee.org/abstract/document/10608133)] [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10608133)] [[code](https://github.com/danhntd/FS-CDIS-Few-shot-Camouflaged-Detection-and-Segmentation)] ![](https://img.shields.io/badge/IEEEAccess2024-blue)
+- **Multiobject Tracking of Wildlife in Videos Using Few-Shot Learning**.  *Jiangfan Feng and Xinxin Xiao*.  [[DOI](https://www.mdpi.com/2076-2615/12/9/1223)] ![](https://img.shields.io/badge/MDPI2022-purple)
+- **Generalization-Enhanced Few-Shot Object Detection in Remote Sensing**.  *Hui Lin, Nan Li, Pengjuan Yao, Kexin Dong, Yuhan Guo, Danfeng Hong*.  [[DOI](https://ieeexplore.ieee.org/abstract/document/10836905)] [[code](https://github.com/leenamx/GE-FSOD)] ![](https://img.shields.io/badge/TCSVT2025-blue)
 
 
 ## Domain Generalization
