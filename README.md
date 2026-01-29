@@ -19,6 +19,7 @@ Collect various papers about re-identification for animals towards better genera
     - [Few-Shot Classification](#few-shot-classification)
     - [Few-Shot Object Detection](#few-shot-object-detection)
     - [Few-Shot Applications in Ecology](#few-shot-applications-in-ecology)
+- [Supplemental Tools](#supplemental-tools)
 
 # Papers
 
@@ -78,3 +79,13 @@ Collect various papers about re-identification for animals towards better genera
 ### Few-Shot Object Detection
 
 ### Few-Shot Applications in Ecology
+
+
+
+# Supplemental Tools
+- **CameraTrapDetectoR**. [[code](https://github.com/CameraTrapDetectoR)]*检测、分类、计数相机陷阱图像中的动物,无代码操作,大规模批处理*.
+- **MegaDetector**.[[code](https://github.com/agentmorris/MegaDetector)]*微软社区的主流相机陷阱 AI 模型,很多生态、保护区、政府项目用它来过滤空图像（blank）和标记动物/人/车,它训练于来自全球不同栖息地的大量数据,是当前生态监测中最实用、引用最广的基础工具，被大量论文使用*.
+- **AddaxAI**.[[web](https://addaxdatascience.com/addaxai/)]*面向生态专家/研究者的本地运行平台，集成了 MegaDetector，可视化图像分析、标签导出、GPU 加速,支持 human-in-the-loop 校验结果*.
+- **Google CameraTrapAI**[[code](https://github.com/google/cameratrapai)]*由 Google 开源的 SpeciesNet + MegaDetector 大规模物种识别组合模型，可用于对图像中的动物进行species级识别,并支持高层次分类（哺乳类、猫科、车辆等）,对生态研究极具价值，可用于大规模长期监测和稀有物种检测实验*.
+- **TrapTagger**.[[code](https://github.com/WildEyeConservation/TrapTagger)]*来自 Oxford WildCRU、用于管理、注释、组织大量相机陷阱图像的系统，支持自动分析,混合注释,自己训练 species classifier,大规模多年份生态监测数据处理,物种分类,数据库式管理, Web / AWS 可部署系统*.
+- **Animal Detect**.[[web](https://www.animaldetect.com/)]*网页式 workflow 工具，用于上传图像、筛空、分类、导出标注和生成可视化汇总，支持拖拽上传、自动批处理、导出 COCO 格式标注,内置 species 分类,在全球众多保护组织和研究团队中有真实使用案例*
