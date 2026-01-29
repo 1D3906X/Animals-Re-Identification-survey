@@ -99,8 +99,18 @@ Collect various papers about re-identification for animals towards better genera
 ## Domain Generalization
 
 ### Cross-Environment Generalization
+- **Recognition in Terra Incognita**.  *Sara Beery, Grant van Horn, Pietro Perona*.  [[DOI](https://arxiv.org/abs/1807.04975)] [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Beery_Recognition_in_Terra_ECCV_2018_paper.pdf)] [[code](https://beerys.github.io/CaltechCameraTraps/)] ![](https://img.shields.io/badge/ECCV2018-green)
+- **The iWildCam 2020 Competition Dataset**.  *Sara Beery, Elijah Cole, Arvi Gjoka*.  [[DOI](https://arxiv.org/abs/2004.10340)] [[pdf](https://arxiv.org/pdf/2004.10340)] ![](https://img.shields.io/badge/CVPR2020-blue)
+- **Wilds: A Benchmark of In-the-Wild Distribution Shifts**.  *Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang*.  [[DOI](https://arxiv.org/abs/2012.07421)] [[pdf](https://arxiv.org/pdf/2012.07421)] ![](https://img.shields.io/badge/arXiv2020-red)
+- **Do Better ImageNet Models Transfer Better?**.  *Simon Kornblith, Jonathon Shlens, Quoc V. Le*.  [[DOI](https://arxiv.org/abs/1805.08974)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.pdf)] ![](https://img.shields.io/badge/CVPR2019-blue)
+- **Lipschitz Estimates for Conformal Maps from the Unit Disk to Convex Domains**.  *Christopher G. Donohue*.  [[DOI](https://arxiv.org/abs/2106.03808)] [[pdf](https://arxiv.org/pdf/2106.03808)] ![](https://img.shields.io/badge/ICLR2017-yellow)
 
 ### Out-of-Distribution Generalization
+- **A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks**.  *Dan Hendrycks, Kevin Gimpel*.  [[DOI](https://arxiv.org/abs/1610.02136)] [[pdf](https://arxiv.org/pdf/1610.02136)] [[code](https://github.com/hendrycks/error-detection)] ![](https://img.shields.io/badge/ICLR2017-yellow)
+- **Deep Anomaly Detection with Outlier Exposure**.  *Dan Hendrycks, Mantas Mazeika, Thomas Dietterich*.  [[DOI](https://arxiv.org/abs/1812.04606)] [[pdf](https://arxiv.org/pdf/1812.04606)] [[code](https://github.com/hendrycks/outlier-exposure)] ![](https://img.shields.io/badge/ICLR2019-yellow)
+- **Generalized Out-of-Distribution Detection: A Survey**.  *Jingkang Yang, Kaiyang Zhou, Yixuan Li, Ziwei Liu*.  [[DOI](https://dl.acm.org/doi/abs/10.1007/s11263-024-02117-4)] [[pdf](https://arxiv.org/pdf/2110.11334)] [[code](https://github.com/Jingkang50/OODSurvey)] ![](https://img.shields.io/badge/ACM2024-black)
+- **Scaling Out-of-Distribution Detection for Real-World Settings**.  *Dan Hendrycks, Steven Basart, Mantas Mazeika, Andy Zou, Joe Kwon, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song*.  [[DOI](https://arxiv.org/abs/1911.11132)] [[pdf](https://arxiv.org/pdf/1911.11132)] [[code](https://github.com/hendrycks/anomaly-seg)] ![](https://img.shields.io/badge/ICML2022-orange)
+- **Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects**.  *Aming Wu, Da Chen, Cheng Deng*.  [[DOI](https://ieeexplore.ieee.org/document/10376741)] [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf)] [[code](https://github.com/AmingWu/DFDD-OOD)] ![](https://img.shields.io/badge/ICCV2023-blue)
 
 ### Multimodal Generalization
 
