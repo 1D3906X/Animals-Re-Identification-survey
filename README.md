@@ -113,6 +113,7 @@ Collect various papers about re-identification for animals towards better genera
 - **Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects**.  *Aming Wu, Da Chen, Cheng Deng*.  [[DOI](https://ieeexplore.ieee.org/document/10376741)] [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf)] [[code](https://github.com/AmingWu/DFDD-OOD)] ![](https://img.shields.io/badge/ICCV2023-blue)
 
 ### Multimodal Generalization
+- **Learning Transferable Visual Models From Natural Language Supervision**. *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever*. [[DOI](https://arxiv.org/abs/2103.00020)]  ![](https://img.shields.io/badge/arXiv2021-red)
 
 
 ## Applications Systems and Benchmarks
